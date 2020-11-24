@@ -1,16 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>ResultCode - 标签 - JonnyHub Blog - A Java Programmer.</title>
-        <link>https://jonnyhub.gitee.io/tags/resultcode/</link>
-        <description>ResultCode - 标签 - JonnyHub Blog - A Java Programmer.</description>
-        <generator>Hugo -- gohugo.io</generator><managingEditor>jonny0624@gmail.com (Jonny.Chang)</managingEditor>
-            <webMaster>jonny0624@gmail.com (Jonny.Chang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 10 Aug 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jonnyhub.gitee.io/tags/resultcode/" rel="self" type="application/rss+xml" /><item>
-    <title>ResultCode 封装</title>
-    <link>https://jonnyhub.gitee.io/2020/08/2020-08-10-resultcode-%E5%B0%81%E8%A3%85/</link>
-    <pubDate>Mon, 10 Aug 2020 00:00:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://jonnyhub.gitee.io/2020/08/2020-08-10-resultcode-%E5%B0%81%E8%A3%85/</guid>
-    <description><![CDATA[<p>Java 中对结果的统一处理，根据阿里巴巴p3c手册进行封装的 Result 工具类。</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>ResultCode - 标签 - JonnyHub Blog - A Java Programmer.</title><link>https://jonnyhub.gitee.io/tags/resultcode/</link><description>ResultCode - 标签 - JonnyHub Blog - A Java Programmer.</description><generator>Hugo -- gohugo.io</generator><managingEditor>jonny0624@gmail.com (Jonny.Chang)</managingEditor><webMaster>jonny0624@gmail.com (Jonny.Chang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jonnyhub.gitee.io/tags/resultcode/" rel="self" type="application/rss+xml"/><item><title>ResultCode 封装</title><link>https://jonnyhub.gitee.io/2020/08/2020-08-10-resultcode-%E5%B0%81%E8%A3%85/</link><pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/2020/08/2020-08-10-resultcode-%E5%B0%81%E8%A3%85/</guid><description><![CDATA[<p>Java 中对结果的统一处理，根据阿里巴巴p3c手册进行封装的 Result 工具类。</p>
 <h1 id="java-中对于结果的统一处理">Java 中对于结果的统一处理</h1>
 <h2 id="resultcodeenum-统一处理结果码枚举">ResultCodeEnum 统一处理结果码枚举</h2>
 <div class="highlight"><div class="chroma">
@@ -1483,6 +1471,4 @@
 <span class="o">}</span>
 </code></pre></td></tr></table>
 </div>
-</div>]]></description>
-</item></channel>
-</rss>
+</div>]]></description></item></channel></rss>

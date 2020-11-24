@@ -1,16 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>概念 - 标签 - JonnyHub Blog - A Java Programmer.</title>
-        <link>https://jonnyhub.gitee.io/tags/%E6%A6%82%E5%BF%B5/</link>
-        <description>概念 - 标签 - JonnyHub Blog - A Java Programmer.</description>
-        <generator>Hugo -- gohugo.io</generator><managingEditor>jonny0624@gmail.com (Jonny.Chang)</managingEditor>
-            <webMaster>jonny0624@gmail.com (Jonny.Chang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 28 May 2018 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jonnyhub.gitee.io/tags/%E6%A6%82%E5%BF%B5/" rel="self" type="application/rss+xml" /><item>
-    <title>03、本主题的基本概念</title>
-    <link>https://jonnyhub.gitee.io/manual/2020-05-28-03%E6%9C%AC%E4%B8%BB%E9%A2%98%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</link>
-    <pubDate>Mon, 28 May 2018 00:00:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://jonnyhub.gitee.io/manual/2020-05-28-03%E6%9C%AC%E4%B8%BB%E9%A2%98%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</guid>
-    <description><![CDATA[<p>探索 Hugo - <strong>LoveIt</strong> 主题的全部内容和背后的核心概念.</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>概念 - 标签 - JonnyHub Blog - A Java Programmer.</title><link>https://jonnyhub.gitee.io/tags/%E6%A6%82%E5%BF%B5/</link><description>概念 - 标签 - JonnyHub Blog - A Java Programmer.</description><generator>Hugo -- gohugo.io</generator><managingEditor>jonny0624@gmail.com (Jonny.Chang)</managingEditor><webMaster>jonny0624@gmail.com (Jonny.Chang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 28 May 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://jonnyhub.gitee.io/tags/%E6%A6%82%E5%BF%B5/" rel="self" type="application/rss+xml"/><item><title>03、本主题的基本概念</title><link>https://jonnyhub.gitee.io/manual/2020-05-28-03%E6%9C%AC%E4%B8%BB%E9%A2%98%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</link><pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/manual/2020-05-28-03%E6%9C%AC%E4%B8%BB%E9%A2%98%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</guid><description><![CDATA[<p>探索 Hugo - <strong>LoveIt</strong> 主题的全部内容和背后的核心概念.</p>
 <h2 id="1-准备">1 准备</h2>
 <p>由于 Hugo 提供的便利性, <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer">Hugo</a> 本身是这个主题唯一的依赖.</p>
 <p>直接安装满足你操作系统 (<strong>Windows</strong>, <strong>Linux</strong>, <strong>macOS</strong>) 的最新版本 <a href="https://gohugo.io/getting-started/installing/" target="_blank" rel="noopener noreffer"><i class="far fa-file-archive fa-fw"></i>&nbsp;Hugo (&gt; 0.62.0)</a>.</p>
@@ -1897,6 +1885,4 @@ git submodule add https://github.com/dillonzq/LoveIt.git themes/LoveIt
 <a href="https://github.com/chrisdmacrae/atomic-algolia" target="_blank" rel="noopener noreffer">Algolia Atomic</a> 是一个不错的选择.
 为了兼容 Hugo 的多语言模式, 你需要上传不同语言的 <code>index.json</code> 文件到对应的 algolia index, 例如 <code>zh-cn/index.json</code> 或 <code>fr/index.json</code>&hellip;</div>
         </div>
-    </div>]]></description>
-</item></channel>
-</rss>
+    </div>]]></description></item></channel></rss>

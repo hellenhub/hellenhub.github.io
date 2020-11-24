@@ -1,16 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>LoveIt - 标签 - JonnyHub Blog - A Java Programmer.</title>
-        <link>https://jonnyhub.gitee.io/tags/loveit/</link>
-        <description>LoveIt - 标签 - JonnyHub Blog - A Java Programmer.</description>
-        <generator>Hugo -- gohugo.io</generator><managingEditor>jonny0624@gmail.com (Jonny.Chang)</managingEditor>
-            <webMaster>jonny0624@gmail.com (Jonny.Chang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 28 May 2018 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jonnyhub.gitee.io/tags/loveit/" rel="self" type="application/rss+xml" /><item>
-    <title>06、LoveIt 扩展 Shortcodes</title>
-    <link>https://jonnyhub.gitee.io/manual/2020-05-28-06loveit-%E6%89%A9%E5%B1%95-shortcodes/</link>
-    <pubDate>Mon, 28 May 2018 00:00:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://jonnyhub.gitee.io/manual/2020-05-28-06loveit-%E6%89%A9%E5%B1%95-shortcodes/</guid>
-    <description><![CDATA[<p><strong>LoveIt</strong> 主题在 Hugo 内置的 shortcode 的基础上提供多个扩展的 shortcode.</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>LoveIt - 标签 - JonnyHub Blog - A Java Programmer.</title><link>https://jonnyhub.gitee.io/tags/loveit/</link><description>LoveIt - 标签 - JonnyHub Blog - A Java Programmer.</description><generator>Hugo -- gohugo.io</generator><managingEditor>jonny0624@gmail.com (Jonny.Chang)</managingEditor><webMaster>jonny0624@gmail.com (Jonny.Chang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 28 May 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://jonnyhub.gitee.io/tags/loveit/" rel="self" type="application/rss+xml"/><item><title>06、LoveIt 扩展 Shortcodes</title><link>https://jonnyhub.gitee.io/manual/2020-05-28-06loveit-%E6%89%A9%E5%B1%95-shortcodes/</link><pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/manual/2020-05-28-06loveit-%E6%89%A9%E5%B1%95-shortcodes/</guid><description><![CDATA[<p><strong>LoveIt</strong> 主题在 Hugo 内置的 shortcode 的基础上提供多个扩展的 shortcode.</p>
 <h2 id="1-style">1 style</h2>
 <a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a>
 <div class="details admonition note open">
@@ -1575,6 +1563,4 @@ public class HelloWorld {
 <span class="p">{{&lt;</span> <span class="p">/</span><span class="nt">script</span> <span class="p">&gt;</span>}}
 </code></pre></td></tr></table>
 </div>
-</div><p>你可以在开发者工具的控制台中看到输出.</p>]]></description>
-</item></channel>
-</rss>
+</div><p>你可以在开发者工具的控制台中看到输出.</p>]]></description></item></channel></rss>

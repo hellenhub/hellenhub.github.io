@@ -1,16 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>JetBrains - 分类 - JonnyHub Blog - A Java Programmer.</title>
-        <link>https://jonnyhub.gitee.io/categories/jetbrains/</link>
-        <description>JetBrains - 分类 - JonnyHub Blog - A Java Programmer.</description>
-        <generator>Hugo -- gohugo.io</generator><managingEditor>jonny0624@gmail.com (Jonny.Chang)</managingEditor>
-            <webMaster>jonny0624@gmail.com (Jonny.Chang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 10 Aug 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jonnyhub.gitee.io/categories/jetbrains/" rel="self" type="application/rss+xml" /><item>
-    <title>IDEA 代码模板</title>
-    <link>https://jonnyhub.gitee.io/2020/08/2020-08-10-idea-%E4%BB%A3%E7%A0%81%E6%A8%A1%E6%9D%BF/</link>
-    <pubDate>Mon, 10 Aug 2020 00:00:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://jonnyhub.gitee.io/2020/08/2020-08-10-idea-%E4%BB%A3%E7%A0%81%E6%A8%A1%E6%9D%BF/</guid>
-    <description><![CDATA[<h1 id="idea-代码模板">IDEA 代码模板</h1>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>JetBrains - 分类 - JonnyHub Blog - A Java Programmer.</title><link>https://jonnyhub.gitee.io/categories/jetbrains/</link><description>JetBrains - 分类 - JonnyHub Blog - A Java Programmer.</description><generator>Hugo -- gohugo.io</generator><managingEditor>jonny0624@gmail.com (Jonny.Chang)</managingEditor><webMaster>jonny0624@gmail.com (Jonny.Chang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jonnyhub.gitee.io/categories/jetbrains/" rel="self" type="application/rss+xml"/><item><title>IDEA 代码模板</title><link>https://jonnyhub.gitee.io/2020/08/2020-08-10-idea-%E4%BB%A3%E7%A0%81%E6%A8%A1%E6%9D%BF/</link><pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/2020/08/2020-08-10-idea-%E4%BB%A3%E7%A0%81%E6%A8%A1%E6%9D%BF/</guid><description><![CDATA[<h1 id="idea-代码模板">IDEA 代码模板</h1>
 <hr>
 <h2 id="getter-and-setter">Getter And Setter</h2>
 <hr>
@@ -280,6 +268,4 @@
 
 </code></pre></td></tr></table>
 </div>
-</div>]]></description>
-</item></channel>
-</rss>
+</div>]]></description></item></channel></rss>

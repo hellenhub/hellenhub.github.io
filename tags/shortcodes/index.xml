@@ -1,16 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Shortcodes - 标签 - JonnyHub Blog - A Java Programmer.</title>
-        <link>https://jonnyhub.gitee.io/tags/shortcodes/</link>
-        <description>Shortcodes - 标签 - JonnyHub Blog - A Java Programmer.</description>
-        <generator>Hugo -- gohugo.io</generator><managingEditor>jonny0624@gmail.com (Jonny.Chang)</managingEditor>
-            <webMaster>jonny0624@gmail.com (Jonny.Chang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jonnyhub.gitee.io/tags/shortcodes/" rel="self" type="application/rss+xml" /><item>
-    <title>05、Hugo 内置 Shortcodes</title>
-    <link>https://jonnyhub.gitee.io/manual/2020-05-28-05hugo-%E5%86%85%E7%BD%AE-shortcodes/</link>
-    <pubDate>Thu, 28 Jun 2018 00:00:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://jonnyhub.gitee.io/manual/2020-05-28-05hugo-%E5%86%85%E7%BD%AE-shortcodes/</guid>
-    <description><![CDATA[<p><strong>Hugo</strong> 提供了多个内置的 Shortcodes, 以方便作者保持 Markdown 内容的整洁.</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Shortcodes - 标签 - JonnyHub Blog - A Java Programmer.</title><link>https://jonnyhub.gitee.io/tags/shortcodes/</link><description>Shortcodes - 标签 - JonnyHub Blog - A Java Programmer.</description><generator>Hugo -- gohugo.io</generator><managingEditor>jonny0624@gmail.com (Jonny.Chang)</managingEditor><webMaster>jonny0624@gmail.com (Jonny.Chang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://jonnyhub.gitee.io/tags/shortcodes/" rel="self" type="application/rss+xml"/><item><title>05、Hugo 内置 Shortcodes</title><link>https://jonnyhub.gitee.io/manual/2020-05-28-05hugo-%E5%86%85%E7%BD%AE-shortcodes/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/manual/2020-05-28-05hugo-%E5%86%85%E7%BD%AE-shortcodes/</guid><description><![CDATA[<p><strong>Hugo</strong> 提供了多个内置的 Shortcodes, 以方便作者保持 Markdown 内容的整洁.</p>
 <h2 id="标题">标题</h2>
 <p>Hugo 使用 Markdown 为其简单的内容格式. 但是, Markdown 在很多方面都无法很好地支持. 你可以使用纯 HTML 来扩展可能性.</p>
 <p>但这恰好是一个坏主意. 大家使用 Markdown, 正是因为它即使不经过渲染也可以轻松阅读. 应该尽可能避免使用 HTML 以保持内容简洁.</p>
@@ -197,14 +185,7 @@ Hugo 提供了多个内置的 Shortcodes, 以方便作者保持 Markdown 内容�
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube-nocookie.com/embed/w7Ft2ymGmfc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>]]></description>
-</item><item>
-    <title>06、LoveIt 扩展 Shortcodes</title>
-    <link>https://jonnyhub.gitee.io/manual/2020-05-28-06loveit-%E6%89%A9%E5%B1%95-shortcodes/</link>
-    <pubDate>Mon, 28 May 2018 00:00:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://jonnyhub.gitee.io/manual/2020-05-28-06loveit-%E6%89%A9%E5%B1%95-shortcodes/</guid>
-    <description><![CDATA[<p><strong>LoveIt</strong> 主题在 Hugo 内置的 shortcode 的基础上提供多个扩展的 shortcode.</p>
+</div>]]></description></item><item><title>06、LoveIt 扩展 Shortcodes</title><link>https://jonnyhub.gitee.io/manual/2020-05-28-06loveit-%E6%89%A9%E5%B1%95-shortcodes/</link><pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/manual/2020-05-28-06loveit-%E6%89%A9%E5%B1%95-shortcodes/</guid><description><![CDATA[<p><strong>LoveIt</strong> 主题在 Hugo 内置的 shortcode 的基础上提供多个扩展的 shortcode.</p>
 <h2 id="1-style">1 style</h2>
 <a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a>
 <div class="details admonition note open">
@@ -1769,6 +1750,4 @@ public class HelloWorld {
 <span class="p">{{&lt;</span> <span class="p">/</span><span class="nt">script</span> <span class="p">&gt;</span>}}
 </code></pre></td></tr></table>
 </div>
-</div><p>你可以在开发者工具的控制台中看到输出.</p>]]></description>
-</item></channel>
-</rss>
+</div><p>你可以在开发者工具的控制台中看到输出.</p>]]></description></item></channel></rss>

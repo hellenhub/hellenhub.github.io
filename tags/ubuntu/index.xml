@@ -1,16 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Ubuntu - 标签 - JonnyHub Blog - A Java Programmer.</title>
-        <link>https://jonnyhub.gitee.io/tags/ubuntu/</link>
-        <description>Ubuntu - 标签 - JonnyHub Blog - A Java Programmer.</description>
-        <generator>Hugo -- gohugo.io</generator><managingEditor>jonny0624@gmail.com (Jonny.Chang)</managingEditor>
-            <webMaster>jonny0624@gmail.com (Jonny.Chang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 20 Feb 2019 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jonnyhub.gitee.io/tags/ubuntu/" rel="self" type="application/rss+xml" /><item>
-    <title>Ubuntu 初始化记录</title>
-    <link>https://jonnyhub.gitee.io/2019/02/2019-02-20-ubuntu-%E5%88%9D%E5%A7%8B%E5%8C%96%E8%AE%B0%E5%BD%95/</link>
-    <pubDate>Wed, 20 Feb 2019 00:00:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://jonnyhub.gitee.io/2019/02/2019-02-20-ubuntu-%E5%88%9D%E5%A7%8B%E5%8C%96%E8%AE%B0%E5%BD%95/</guid>
-    <description><![CDATA[<p>使用腾讯云 CVM 安装了系统之后，需要做的一些基本设置与配置。</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Ubuntu - 标签 - JonnyHub Blog - A Java Programmer.</title><link>https://jonnyhub.gitee.io/tags/ubuntu/</link><description>Ubuntu - 标签 - JonnyHub Blog - A Java Programmer.</description><generator>Hugo -- gohugo.io</generator><managingEditor>jonny0624@gmail.com (Jonny.Chang)</managingEditor><webMaster>jonny0624@gmail.com (Jonny.Chang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 20 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://jonnyhub.gitee.io/tags/ubuntu/" rel="self" type="application/rss+xml"/><item><title>Ubuntu 初始化记录</title><link>https://jonnyhub.gitee.io/2019/02/2019-02-20-ubuntu-%E5%88%9D%E5%A7%8B%E5%8C%96%E8%AE%B0%E5%BD%95/</link><pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/2019/02/2019-02-20-ubuntu-%E5%88%9D%E5%A7%8B%E5%8C%96%E8%AE%B0%E5%BD%95/</guid><description><![CDATA[<p>使用腾讯云 CVM 安装了系统之后，需要做的一些基本设置与配置。</p>
 <h2 id="系统更新与优化">系统更新与优化</h2>
 <blockquote>
 <p>本文默认: 在开启 root 登录后，一切使用 root 用户操作。</p>
@@ -422,6 +410,4 @@ sudo tee ~/.profile <span class="s">&lt;&lt;-&#39;EOF&#39;
 <span class="nb">source</span> ~/.profile
 </code></pre></td></tr></table>
 </div>
-</div>]]></description>
-</item></channel>
-</rss>
+</div>]]></description></item></channel></rss>

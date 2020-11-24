@@ -1,16 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>所有文章 - JonnyHub Blog - A Java Programmer.</title>
-        <link>https://jonnyhub.gitee.io/posts/</link>
-        <description>所有文章 | JonnyHub Blog - A Java Programmer.</description>
-        <generator>Hugo -- gohugo.io</generator><managingEditor>jonny0624@gmail.com (Jonny.Chang)</managingEditor>
-            <webMaster>jonny0624@gmail.com (Jonny.Chang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 09 Sep 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jonnyhub.gitee.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>ImgURL 项目简介</title>
-    <link>https://jonnyhub.gitee.io/2020/09/2020-09-09-imgurl-%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B/</link>
-    <pubDate>Wed, 09 Sep 2020 00:00:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://jonnyhub.gitee.io/2020/09/2020-09-09-imgurl-%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B/</guid>
-    <description><![CDATA[<p>ImgURL 是一款简单、纯粹、高速稳定的图片上传和外链服务（图床程序），使用 Java + SpringBoot + MySQL + Vue + AntDesign of Vue 组件库开发。</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>所有文章 - JonnyHub Blog - A Java Programmer.</title><link>https://jonnyhub.gitee.io/posts/</link><description>所有文章 | JonnyHub Blog - A Java Programmer.</description><generator>Hugo -- gohugo.io</generator><managingEditor>jonny0624@gmail.com (Jonny.Chang)</managingEditor><webMaster>jonny0624@gmail.com (Jonny.Chang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jonnyhub.gitee.io/posts/" rel="self" type="application/rss+xml"/><item><title>ImgURL 项目简介</title><link>https://jonnyhub.gitee.io/2020/09/2020-09-09-imgurl-%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B/</link><pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/2020/09/2020-09-09-imgurl-%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B/</guid><description><![CDATA[<p>ImgURL 是一款简单、纯粹、高速稳定的图片上传和外链服务（图床程序），使用 Java + SpringBoot + MySQL + Vue + AntDesign of Vue 组件库开发。</p>
 <!-- more -->
 <h2 id="简介">简介</h2>
 <p>什么是图床？
@@ -62,14 +50,7 @@ ImgHub 虽然很小，但很强大，Pro 版本是可以对接微信，争取做
 - 无广告
 </code></pre>
 <hr>
-]]></description>
-</item><item>
-    <title>IT 知识技能图谱</title>
-    <link>https://jonnyhub.gitee.io/2020/08/2020-08-27-it-%E7%9F%A5%E8%AF%86%E6%8A%80%E8%83%BD%E5%9B%BE%E8%B0%B1/</link>
-    <pubDate>Thu, 27 Aug 2020 00:00:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://jonnyhub.gitee.io/2020/08/2020-08-27-it-%E7%9F%A5%E8%AF%86%E6%8A%80%E8%83%BD%E5%9B%BE%E8%B0%B1/</guid>
-    <description><![CDATA[<p>该【技能图谱】展示了多个技能图谱，以便查看。</p>
+]]></description></item><item><title>IT 知识技能图谱</title><link>https://jonnyhub.gitee.io/2020/08/2020-08-27-it-%E7%9F%A5%E8%AF%86%E6%8A%80%E8%83%BD%E5%9B%BE%E8%B0%B1/</link><pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/2020/08/2020-08-27-it-%E7%9F%A5%E8%AF%86%E6%8A%80%E8%83%BD%E5%9B%BE%E8%B0%B1/</guid><description><![CDATA[<p>该【技能图谱】展示了多个技能图谱，以便查看。</p>
 <h2 id="it-知识技能图谱">IT 知识技能图谱</h2>
 <h3 id="架构师技能图谱">架构师技能图谱</h3>
 <figure><a class="lightgallery" href="/skill_maps/0d838b00dueccc6387dabfe7bf8baa8c.JPG" title="/skill_maps/0d838b00dueccc6387dabfe7bf8baa8c.JPG" data-thumbnail="/skill_maps/0d838b00dueccc6387dabfe7bf8baa8c.JPG" data-sub-html="<h2>架构师技能图谱 (V1.2)</h2>">
@@ -105,14 +86,7 @@ ImgHub 虽然很小，但很强大，Pro 版本是可以对接微信，争取做
 <figure><a class="lightgallery" href="/skill_maps/1f4e1e5c6q97f32a844a471ce6761f23.JPG" title="/skill_maps/1f4e1e5c6q97f32a844a471ce6761f23.JPG" data-thumbnail="/skill_maps/1f4e1e5c6q97f32a844a471ce6761f23.JPG" data-sub-html="<h2>Go语言核心技术</h2>">
         
     </a><figcaption class="image-caption">Go语言核心技术</figcaption>
-    </figure>]]></description>
-</item><item>
-    <title>ZSH 插件介绍</title>
-    <link>https://jonnyhub.gitee.io/2020/08/2020-08-20-zsh-%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D%E4%B8%8E%E9%85%8D%E7%BD%AE/</link>
-    <pubDate>Thu, 20 Aug 2020 00:00:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://jonnyhub.gitee.io/2020/08/2020-08-20-zsh-%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D%E4%B8%8E%E9%85%8D%E7%BD%AE/</guid>
-    <description><![CDATA[<p>ZSH 插件的介绍和一些基本配置。</p>
+    </figure>]]></description></item><item><title>ZSH 插件介绍</title><link>https://jonnyhub.gitee.io/2020/08/2020-08-20-zsh-%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D%E4%B8%8E%E9%85%8D%E7%BD%AE/</link><pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/2020/08/2020-08-20-zsh-%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D%E4%B8%8E%E9%85%8D%E7%BD%AE/</guid><description><![CDATA[<p>ZSH 插件的介绍和一些基本配置。</p>
 <h1 id="zsh-插件介绍">ZSH 插件介绍</h1>
 <h2 id="常用插件介绍">常用插件介绍</h2>
 <ul>
@@ -571,14 +545,7 @@ git clone https://github.com/skywind3000/z.lua.git ~/.oh-my-zsh/custom/plugins/z
 <span class="nb">eval</span> <span class="s2">&#34;</span><span class="k">$(</span>lua ~/.oh-my-zsh/custom/plugins/z.lua/z.lua  --init zsh once enhanced<span class="k">)</span><span class="s2">&#34;</span>    <span class="c1"># ZSH 初始化</span>
 </code></pre></td></tr></table>
 </div>
-</div>]]></description>
-</item><item>
-    <title>IDEA 代码模板</title>
-    <link>https://jonnyhub.gitee.io/2020/08/2020-08-10-idea-%E4%BB%A3%E7%A0%81%E6%A8%A1%E6%9D%BF/</link>
-    <pubDate>Mon, 10 Aug 2020 00:00:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://jonnyhub.gitee.io/2020/08/2020-08-10-idea-%E4%BB%A3%E7%A0%81%E6%A8%A1%E6%9D%BF/</guid>
-    <description><![CDATA[<h1 id="idea-代码模板">IDEA 代码模板</h1>
+</div>]]></description></item><item><title>IDEA 代码模板</title><link>https://jonnyhub.gitee.io/2020/08/2020-08-10-idea-%E4%BB%A3%E7%A0%81%E6%A8%A1%E6%9D%BF/</link><pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/2020/08/2020-08-10-idea-%E4%BB%A3%E7%A0%81%E6%A8%A1%E6%9D%BF/</guid><description><![CDATA[<h1 id="idea-代码模板">IDEA 代码模板</h1>
 <hr>
 <h2 id="getter-and-setter">Getter And Setter</h2>
 <hr>
@@ -848,14 +815,7 @@ git clone https://github.com/skywind3000/z.lua.git ~/.oh-my-zsh/custom/plugins/z
 
 </code></pre></td></tr></table>
 </div>
-</div>]]></description>
-</item><item>
-    <title>ResultCode 封装</title>
-    <link>https://jonnyhub.gitee.io/2020/08/2020-08-10-resultcode-%E5%B0%81%E8%A3%85/</link>
-    <pubDate>Mon, 10 Aug 2020 00:00:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://jonnyhub.gitee.io/2020/08/2020-08-10-resultcode-%E5%B0%81%E8%A3%85/</guid>
-    <description><![CDATA[<p>Java 中对结果的统一处理，根据阿里巴巴p3c手册进行封装的 Result 工具类。</p>
+</div>]]></description></item><item><title>ResultCode 封装</title><link>https://jonnyhub.gitee.io/2020/08/2020-08-10-resultcode-%E5%B0%81%E8%A3%85/</link><pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/2020/08/2020-08-10-resultcode-%E5%B0%81%E8%A3%85/</guid><description><![CDATA[<p>Java 中对结果的统一处理，根据阿里巴巴p3c手册进行封装的 Result 工具类。</p>
 <h1 id="java-中对于结果的统一处理">Java 中对于结果的统一处理</h1>
 <h2 id="resultcodeenum-统一处理结果码枚举">ResultCodeEnum 统一处理结果码枚举</h2>
 <div class="highlight"><div class="chroma">
@@ -2328,14 +2288,7 @@ git clone https://github.com/skywind3000/z.lua.git ~/.oh-my-zsh/custom/plugins/z
 <span class="o">}</span>
 </code></pre></td></tr></table>
 </div>
-</div>]]></description>
-</item><item>
-    <title>关于 Unix 中的配置文件</title>
-    <link>https://jonnyhub.gitee.io/2020/08/2020-06-08-%E5%85%B3%E4%BA%8Eunix%E4%B8%AD%E7%9A%84%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/</link>
-    <pubDate>Sat, 08 Aug 2020 00:00:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://jonnyhub.gitee.io/2020/08/2020-06-08-%E5%85%B3%E4%BA%8Eunix%E4%B8%AD%E7%9A%84%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/</guid>
-    <description><![CDATA[<blockquote>
+</div>]]></description></item><item><title>关于 Unix 中的配置文件</title><link>https://jonnyhub.gitee.io/2020/08/2020-06-08-%E5%85%B3%E4%BA%8Eunix%E4%B8%AD%E7%9A%84%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/</link><pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/2020/08/2020-06-08-%E5%85%B3%E4%BA%8Eunix%E4%B8%AD%E7%9A%84%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/</guid><description><![CDATA[<blockquote>
 <p>关于 Unix ，配置文件十分重要，对于用户来说，总是会搞不清，到底要设置哪里。下面就针对不同系统的文件做详细介绍。</p>
 </blockquote>
 <hr>
@@ -2401,14 +2354,7 @@ git clone https://github.com/skywind3000/z.lua.git ~/.oh-my-zsh/custom/plugins/z
 简单说来，它们的区别主要是: <code>.bash_profile</code>是在你每次登录的时候执行的；<code>.bashrc</code>是在你新开了一个命令行窗口时执行的。
 当通过控制台进行登录（输入用户名和密码）：在初始化命令行提示符的时候会执行<code>.bash_profile</code> 来配置你的 shell 环境。但是如果已经登录到机器，在Gnome或者是KDE也开了一个新的终端窗口（xterm），这时，<code>.bashrc</code>会在窗口命令行提示符出现前被执行。当你在终端敲入<code>/bin/bash</code>时<code>.bashrc</code>也会在这个新的 bash 实例启动的时候执行。</p>
 <h2 id="zshrc-文件是什么"><code>.zshrc</code> 文件是什么</h2>
-<p>对于使用 zsh shell 的用户来说，<code>.zshrc</code> 文件就相当于以上所讲的  <code>~/.bashrc</code> 和 <code>.bash_profile</code>。</p>]]></description>
-</item><item>
-    <title>LmSite 项目架构</title>
-    <link>https://jonnyhub.gitee.io/2020/06/2020-06-08-lmsite-%E9%A1%B9%E7%9B%AE%E6%9E%B6%E6%9E%84/</link>
-    <pubDate>Mon, 08 Jun 2020 00:00:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://jonnyhub.gitee.io/2020/06/2020-06-08-lmsite-%E9%A1%B9%E7%9B%AE%E6%9E%B6%E6%9E%84/</guid>
-    <description><![CDATA[<h2 id="lmsite">LmSite</h2>
+<p>对于使用 zsh shell 的用户来说，<code>.zshrc</code> 文件就相当于以上所讲的  <code>~/.bashrc</code> 和 <code>.bash_profile</code>。</p>]]></description></item><item><title>LmSite 项目架构</title><link>https://jonnyhub.gitee.io/2020/06/2020-06-08-lmsite-%E9%A1%B9%E7%9B%AE%E6%9E%B6%E6%9E%84/</link><pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/2020/06/2020-06-08-lmsite-%E9%A1%B9%E7%9B%AE%E6%9E%B6%E6%9E%84/</guid><description><![CDATA[<h2 id="lmsite">LmSite</h2>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt"> 1
@@ -2461,14 +2407,7 @@ git clone https://github.com/skywind3000/z.lua.git ~/.oh-my-zsh/custom/plugins/z
 
 </code></pre></td></tr></table>
 </div>
-</div>]]></description>
-</item><item>
-    <title>Webhookd 安装与配置</title>
-    <link>https://jonnyhub.gitee.io/2019/06/2019-06-02-webhookd-%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/</link>
-    <pubDate>Sun, 02 Jun 2019 00:00:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://jonnyhub.gitee.io/2019/06/2019-06-02-webhookd-%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/</guid>
-    <description><![CDATA[<p>Webhookd 是一个非常简单的 webhook 服务器启动 shell 脚本。目前使用十分方便，使用 go 开发，速度也很快。本文介绍了 Webhookd 安装与配置，采用了脚本自动化的方式来搭建整个自动化流程。</p>
+</div>]]></description></item><item><title>Webhookd 安装与配置</title><link>https://jonnyhub.gitee.io/2019/06/2019-06-02-webhookd-%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/</link><pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/2019/06/2019-06-02-webhookd-%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/</guid><description><![CDATA[<p>Webhookd 是一个非常简单的 webhook 服务器启动 shell 脚本。目前使用十分方便，使用 go 开发，速度也很快。本文介绍了 Webhookd 安装与配置，采用了脚本自动化的方式来搭建整个自动化流程。</p>
 <h2 id="webhookd-介绍">webhookd 介绍</h2>
 <blockquote>
 <p>webhookd 是一个非常简单的webhook服务器启动shell脚本。目前使用十分方便，使用 go 开发，速度也很快。
@@ -2804,14 +2743,7 @@ chmod +x <span class="si">${</span><span class="nv">ROOT_PATH</span><span class=
 
 </code></pre></td></tr></table>
 </div>
-</div>]]></description>
-</item><item>
-    <title>Oneinstack 环境安装</title>
-    <link>https://jonnyhub.gitee.io/2019/05/2019-05-11-oneinstack-%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/</link>
-    <pubDate>Sat, 11 May 2019 00:00:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://jonnyhub.gitee.io/2019/05/2019-05-11-oneinstack-%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/</guid>
-    <description><![CDATA[<p><strong>OneinStack</strong> 是另一个非常优秀的 LNMP 一键安装脚本，这与 LNMP 功能类似，只不过 LNMP.org 的 LNMP 一键脚本一年才更新一次，PHP 7和Let’s Encrypt证书只有等到 LNMP 1.4 出来后才能使用，而 OneinStack 早就可以使用了。</p>
+</div>]]></description></item><item><title>Oneinstack 环境安装</title><link>https://jonnyhub.gitee.io/2019/05/2019-05-11-oneinstack-%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/</link><pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/2019/05/2019-05-11-oneinstack-%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/</guid><description><![CDATA[<p><strong>OneinStack</strong> 是另一个非常优秀的 LNMP 一键安装脚本，这与 LNMP 功能类似，只不过 LNMP.org 的 LNMP 一键脚本一年才更新一次，PHP 7和Let’s Encrypt证书只有等到 LNMP 1.4 出来后才能使用，而 OneinStack 早就可以使用了。</p>
 <h2 id="oneinstack-下载安装与升级">OneinStack 下载安装与升级</h2>
 <ul>
 <li>准备:</li>
@@ -2917,14 +2849,7 @@ screen -S ones
 <span class="nb">export</span> <span class="nv">PATH</span><span class="o">=</span><span class="nv">$JAVA_HOME</span>/bin:/usr/local/php/bin:/usr/local/apache/bin:/usr/local/mysql/bin:/usr/local/openresty/nginx/sbin:<span class="nv">$PATH</span>
 </code></pre></td></tr></table>
 </div>
-</div>]]></description>
-</item><item>
-    <title>Ubuntu 初始化记录</title>
-    <link>https://jonnyhub.gitee.io/2019/02/2019-02-20-ubuntu-%E5%88%9D%E5%A7%8B%E5%8C%96%E8%AE%B0%E5%BD%95/</link>
-    <pubDate>Wed, 20 Feb 2019 00:00:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://jonnyhub.gitee.io/2019/02/2019-02-20-ubuntu-%E5%88%9D%E5%A7%8B%E5%8C%96%E8%AE%B0%E5%BD%95/</guid>
-    <description><![CDATA[<p>使用腾讯云 CVM 安装了系统之后，需要做的一些基本设置与配置。</p>
+</div>]]></description></item><item><title>Ubuntu 初始化记录</title><link>https://jonnyhub.gitee.io/2019/02/2019-02-20-ubuntu-%E5%88%9D%E5%A7%8B%E5%8C%96%E8%AE%B0%E5%BD%95/</link><pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/2019/02/2019-02-20-ubuntu-%E5%88%9D%E5%A7%8B%E5%8C%96%E8%AE%B0%E5%BD%95/</guid><description><![CDATA[<p>使用腾讯云 CVM 安装了系统之后，需要做的一些基本设置与配置。</p>
 <h2 id="系统更新与优化">系统更新与优化</h2>
 <blockquote>
 <p>本文默认: 在开启 root 登录后，一切使用 root 用户操作。</p>
@@ -3336,6 +3261,4 @@ sudo tee ~/.profile <span class="s">&lt;&lt;-&#39;EOF&#39;
 <span class="nb">source</span> ~/.profile
 </code></pre></td></tr></table>
 </div>
-</div>]]></description>
-</item></channel>
-</rss>
+</div>]]></description></item></channel></rss>

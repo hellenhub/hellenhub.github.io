@@ -1,16 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>OneinStack - 标签 - JonnyHub Blog - A Java Programmer.</title>
-        <link>https://jonnyhub.gitee.io/tags/oneinstack/</link>
-        <description>OneinStack - 标签 - JonnyHub Blog - A Java Programmer.</description>
-        <generator>Hugo -- gohugo.io</generator><managingEditor>jonny0624@gmail.com (Jonny.Chang)</managingEditor>
-            <webMaster>jonny0624@gmail.com (Jonny.Chang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 11 May 2019 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jonnyhub.gitee.io/tags/oneinstack/" rel="self" type="application/rss+xml" /><item>
-    <title>Oneinstack 环境安装</title>
-    <link>https://jonnyhub.gitee.io/2019/05/2019-05-11-oneinstack-%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/</link>
-    <pubDate>Sat, 11 May 2019 00:00:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://jonnyhub.gitee.io/2019/05/2019-05-11-oneinstack-%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/</guid>
-    <description><![CDATA[<p><strong>OneinStack</strong> 是另一个非常优秀的 LNMP 一键安装脚本，这与 LNMP 功能类似，只不过 LNMP.org 的 LNMP 一键脚本一年才更新一次，PHP 7和Let’s Encrypt证书只有等到 LNMP 1.4 出来后才能使用，而 OneinStack 早就可以使用了。</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>OneinStack - 标签 - JonnyHub Blog - A Java Programmer.</title><link>https://jonnyhub.gitee.io/tags/oneinstack/</link><description>OneinStack - 标签 - JonnyHub Blog - A Java Programmer.</description><generator>Hugo -- gohugo.io</generator><managingEditor>jonny0624@gmail.com (Jonny.Chang)</managingEditor><webMaster>jonny0624@gmail.com (Jonny.Chang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 11 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://jonnyhub.gitee.io/tags/oneinstack/" rel="self" type="application/rss+xml"/><item><title>Oneinstack 环境安装</title><link>https://jonnyhub.gitee.io/2019/05/2019-05-11-oneinstack-%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/</link><pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/2019/05/2019-05-11-oneinstack-%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/</guid><description><![CDATA[<p><strong>OneinStack</strong> 是另一个非常优秀的 LNMP 一键安装脚本，这与 LNMP 功能类似，只不过 LNMP.org 的 LNMP 一键脚本一年才更新一次，PHP 7和Let’s Encrypt证书只有等到 LNMP 1.4 出来后才能使用，而 OneinStack 早就可以使用了。</p>
 <h2 id="oneinstack-下载安装与升级">OneinStack 下载安装与升级</h2>
 <ul>
 <li>准备:</li>
@@ -116,6 +104,4 @@ screen -S ones
 <span class="nb">export</span> <span class="nv">PATH</span><span class="o">=</span><span class="nv">$JAVA_HOME</span>/bin:/usr/local/php/bin:/usr/local/apache/bin:/usr/local/mysql/bin:/usr/local/openresty/nginx/sbin:<span class="nv">$PATH</span>
 </code></pre></td></tr></table>
 </div>
-</div>]]></description>
-</item></channel>
-</rss>
+</div>]]></description></item></channel></rss>

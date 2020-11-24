@@ -1,16 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>OSX - 标签 - JonnyHub Blog - A Java Programmer.</title>
-        <link>https://jonnyhub.gitee.io/tags/osx/</link>
-        <description>OSX - 标签 - JonnyHub Blog - A Java Programmer.</description>
-        <generator>Hugo -- gohugo.io</generator><managingEditor>jonny0624@gmail.com (Jonny.Chang)</managingEditor>
-            <webMaster>jonny0624@gmail.com (Jonny.Chang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 08 Aug 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jonnyhub.gitee.io/tags/osx/" rel="self" type="application/rss+xml" /><item>
-    <title>关于 Unix 中的配置文件</title>
-    <link>https://jonnyhub.gitee.io/2020/08/2020-06-08-%E5%85%B3%E4%BA%8Eunix%E4%B8%AD%E7%9A%84%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/</link>
-    <pubDate>Sat, 08 Aug 2020 00:00:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://jonnyhub.gitee.io/2020/08/2020-06-08-%E5%85%B3%E4%BA%8Eunix%E4%B8%AD%E7%9A%84%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/</guid>
-    <description><![CDATA[<blockquote>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>OSX - 标签 - JonnyHub Blog - A Java Programmer.</title><link>https://jonnyhub.gitee.io/tags/osx/</link><description>OSX - 标签 - JonnyHub Blog - A Java Programmer.</description><generator>Hugo -- gohugo.io</generator><managingEditor>jonny0624@gmail.com (Jonny.Chang)</managingEditor><webMaster>jonny0624@gmail.com (Jonny.Chang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jonnyhub.gitee.io/tags/osx/" rel="self" type="application/rss+xml"/><item><title>关于 Unix 中的配置文件</title><link>https://jonnyhub.gitee.io/2020/08/2020-06-08-%E5%85%B3%E4%BA%8Eunix%E4%B8%AD%E7%9A%84%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/</link><pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/2020/08/2020-06-08-%E5%85%B3%E4%BA%8Eunix%E4%B8%AD%E7%9A%84%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/</guid><description><![CDATA[<blockquote>
 <p>关于 Unix ，配置文件十分重要，对于用户来说，总是会搞不清，到底要设置哪里。下面就针对不同系统的文件做详细介绍。</p>
 </blockquote>
 <hr>
@@ -76,6 +64,4 @@
 简单说来，它们的区别主要是: <code>.bash_profile</code>是在你每次登录的时候执行的；<code>.bashrc</code>是在你新开了一个命令行窗口时执行的。
 当通过控制台进行登录（输入用户名和密码）：在初始化命令行提示符的时候会执行<code>.bash_profile</code> 来配置你的 shell 环境。但是如果已经登录到机器，在Gnome或者是KDE也开了一个新的终端窗口（xterm），这时，<code>.bashrc</code>会在窗口命令行提示符出现前被执行。当你在终端敲入<code>/bin/bash</code>时<code>.bashrc</code>也会在这个新的 bash 实例启动的时候执行。</p>
 <h2 id="zshrc-文件是什么"><code>.zshrc</code> 文件是什么</h2>
-<p>对于使用 zsh shell 的用户来说，<code>.zshrc</code> 文件就相当于以上所讲的  <code>~/.bashrc</code> 和 <code>.bash_profile</code>。</p>]]></description>
-</item></channel>
-</rss>
+<p>对于使用 zsh shell 的用户来说，<code>.zshrc</code> 文件就相当于以上所讲的  <code>~/.bashrc</code> 和 <code>.bash_profile</code>。</p>]]></description></item></channel></rss>

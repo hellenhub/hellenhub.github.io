@@ -1,16 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>项目 - 标签 - JonnyHub Blog - A Java Programmer.</title>
-        <link>https://jonnyhub.gitee.io/tags/%E9%A1%B9%E7%9B%AE/</link>
-        <description>项目 - 标签 - JonnyHub Blog - A Java Programmer.</description>
-        <generator>Hugo -- gohugo.io</generator><managingEditor>jonny0624@gmail.com (Jonny.Chang)</managingEditor>
-            <webMaster>jonny0624@gmail.com (Jonny.Chang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 09 Sep 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jonnyhub.gitee.io/tags/%E9%A1%B9%E7%9B%AE/" rel="self" type="application/rss+xml" /><item>
-    <title>ImgURL 项目简介</title>
-    <link>https://jonnyhub.gitee.io/2020/09/2020-09-09-imgurl-%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B/</link>
-    <pubDate>Wed, 09 Sep 2020 00:00:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://jonnyhub.gitee.io/2020/09/2020-09-09-imgurl-%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B/</guid>
-    <description><![CDATA[<p>ImgURL 是一款简单、纯粹、高速稳定的图片上传和外链服务（图床程序），使用 Java + SpringBoot + MySQL + Vue + AntDesign of Vue 组件库开发。</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>项目 - 标签 - JonnyHub Blog - A Java Programmer.</title><link>https://jonnyhub.gitee.io/tags/%E9%A1%B9%E7%9B%AE/</link><description>项目 - 标签 - JonnyHub Blog - A Java Programmer.</description><generator>Hugo -- gohugo.io</generator><managingEditor>jonny0624@gmail.com (Jonny.Chang)</managingEditor><webMaster>jonny0624@gmail.com (Jonny.Chang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jonnyhub.gitee.io/tags/%E9%A1%B9%E7%9B%AE/" rel="self" type="application/rss+xml"/><item><title>ImgURL 项目简介</title><link>https://jonnyhub.gitee.io/2020/09/2020-09-09-imgurl-%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B/</link><pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/2020/09/2020-09-09-imgurl-%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B/</guid><description><![CDATA[<p>ImgURL 是一款简单、纯粹、高速稳定的图片上传和外链服务（图床程序），使用 Java + SpringBoot + MySQL + Vue + AntDesign of Vue 组件库开发。</p>
 <!-- more -->
 <h2 id="简介">简介</h2>
 <p>什么是图床？
@@ -62,6 +50,4 @@ ImgHub 虽然很小，但很强大，Pro 版本是可以对接微信，争取做
 - 无广告
 </code></pre>
 <hr>
-]]></description>
-</item></channel>
-</rss>
+]]></description></item></channel></rss>

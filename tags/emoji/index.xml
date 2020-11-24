@@ -1,16 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>emoji - 标签 - JonnyHub Blog - A Java Programmer.</title>
-        <link>https://jonnyhub.gitee.io/tags/emoji/</link>
-        <description>emoji - 标签 - JonnyHub Blog - A Java Programmer.</description>
-        <generator>Hugo -- gohugo.io</generator><managingEditor>jonny0624@gmail.com (Jonny.Chang)</managingEditor>
-            <webMaster>jonny0624@gmail.com (Jonny.Chang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jonnyhub.gitee.io/tags/emoji/" rel="self" type="application/rss+xml" /><item>
-    <title>04、Emoji 支持</title>
-    <link>https://jonnyhub.gitee.io/manual/2020-05-28-04emoji-%E6%94%AF%E6%8C%81/</link>
-    <pubDate>Thu, 28 Jun 2018 00:00:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://jonnyhub.gitee.io/manual/2020-05-28-04emoji-%E6%94%AF%E6%8C%81/</guid>
-    <description><![CDATA[<p>Emoji 可以通过多种方式在 Hugo 项目中启用.</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>emoji - 标签 - JonnyHub Blog - A Java Programmer.</title><link>https://jonnyhub.gitee.io/tags/emoji/</link><description>emoji - 标签 - JonnyHub Blog - A Java Programmer.</description><generator>Hugo -- gohugo.io</generator><managingEditor>jonny0624@gmail.com (Jonny.Chang)</managingEditor><webMaster>jonny0624@gmail.com (Jonny.Chang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://jonnyhub.gitee.io/tags/emoji/" rel="self" type="application/rss+xml"/><item><title>04、Emoji 支持</title><link>https://jonnyhub.gitee.io/manual/2020-05-28-04emoji-%E6%94%AF%E6%8C%81/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/manual/2020-05-28-04emoji-%E6%94%AF%E6%8C%81/</guid><description><![CDATA[<p>Emoji 可以通过多种方式在 Hugo 项目中启用.</p>
 <p><a href="https://gohugo.io/functions/emojify/" target="_blank" rel="noopener noreffer"><code>emojify</code></a> 方法可以直接在模板中调用, 或者使用<a href="https://gohugo.io/templates/shortcode-templates#inline-shortcodes" target="_blank" rel="noopener noreffer">行内 Shortcodes</a>.</p>
 <p>要全局使用 emoji, 需要在你的<a href="https://gohugo.io/getting-started/configuration/" target="_blank" rel="noopener noreffer">网站配置</a>中设置 <code>enableEmoji</code> 为 <code>true</code>,
 然后你就可以直接在文章中输入 emoji 的代码.</p>
@@ -5745,6 +5733,4 @@
 <td></td>
 </tr>
 </tbody>
-</table>]]></description>
-</item></channel>
-</rss>
+</table>]]></description></item></channel></rss>

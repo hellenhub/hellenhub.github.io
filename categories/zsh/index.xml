@@ -1,16 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>ZSH - 分类 - JonnyHub Blog - A Java Programmer.</title>
-        <link>https://jonnyhub.gitee.io/categories/zsh/</link>
-        <description>ZSH - 分类 - JonnyHub Blog - A Java Programmer.</description>
-        <generator>Hugo -- gohugo.io</generator><managingEditor>jonny0624@gmail.com (Jonny.Chang)</managingEditor>
-            <webMaster>jonny0624@gmail.com (Jonny.Chang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 20 Aug 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jonnyhub.gitee.io/categories/zsh/" rel="self" type="application/rss+xml" /><item>
-    <title>ZSH 插件介绍</title>
-    <link>https://jonnyhub.gitee.io/2020/08/2020-08-20-zsh-%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D%E4%B8%8E%E9%85%8D%E7%BD%AE/</link>
-    <pubDate>Thu, 20 Aug 2020 00:00:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://jonnyhub.gitee.io/2020/08/2020-08-20-zsh-%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D%E4%B8%8E%E9%85%8D%E7%BD%AE/</guid>
-    <description><![CDATA[<p>ZSH 插件的介绍和一些基本配置。</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>ZSH - 分类 - JonnyHub Blog - A Java Programmer.</title><link>https://jonnyhub.gitee.io/categories/zsh/</link><description>ZSH - 分类 - JonnyHub Blog - A Java Programmer.</description><generator>Hugo -- gohugo.io</generator><managingEditor>jonny0624@gmail.com (Jonny.Chang)</managingEditor><webMaster>jonny0624@gmail.com (Jonny.Chang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jonnyhub.gitee.io/categories/zsh/" rel="self" type="application/rss+xml"/><item><title>ZSH 插件介绍</title><link>https://jonnyhub.gitee.io/2020/08/2020-08-20-zsh-%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D%E4%B8%8E%E9%85%8D%E7%BD%AE/</link><pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/2020/08/2020-08-20-zsh-%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D%E4%B8%8E%E9%85%8D%E7%BD%AE/</guid><description><![CDATA[<p>ZSH 插件的介绍和一些基本配置。</p>
 <h1 id="zsh-插件介绍">ZSH 插件介绍</h1>
 <h2 id="常用插件介绍">常用插件介绍</h2>
 <ul>
@@ -469,6 +457,4 @@ git clone https://github.com/skywind3000/z.lua.git ~/.oh-my-zsh/custom/plugins/z
 <span class="nb">eval</span> <span class="s2">&#34;</span><span class="k">$(</span>lua ~/.oh-my-zsh/custom/plugins/z.lua/z.lua  --init zsh once enhanced<span class="k">)</span><span class="s2">&#34;</span>    <span class="c1"># ZSH 初始化</span>
 </code></pre></td></tr></table>
 </div>
-</div>]]></description>
-</item></channel>
-</rss>
+</div>]]></description></item></channel></rss>
