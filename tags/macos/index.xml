@@ -1,0 +1,604 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>macOS - 标签 - JonnyHub Blog - A Java Programmer.</title><link>https://jonnyhub.gitee.io/tags/macos/</link><description>macOS - 标签 - JonnyHub Blog - A Java Programmer.</description><generator>Hugo -- gohugo.io</generator><managingEditor>jonny0624@gmail.com (Jonny.Chang)</managingEditor><webMaster>jonny0624@gmail.com (Jonny.Chang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jonnyhub.gitee.io/tags/macos/" rel="self" type="application/rss+xml"/><item><title>macOS X 桌面应用</title><link>https://jonnyhub.gitee.io/2020/12/macos-x-%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8/</link><pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/2020/12/macos-x-%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8/</guid><description><![CDATA[<p>macOS X 桌面应用，最全面的桌面应用介绍。</p>
+<blockquote>
+<p>说明：</p>
+<ul>
+<li>一般每个应用分两行，其一为介绍，其二为下载地址，特别第有相关链接。</li>
+<li>立即下载: 直接下载最新版；</li>
+<li>官网下载：前往官网下载页面；</li>
+<li>AppStore 下载：跳转到 AppStore 下载；</li>
+<li>MacWk 下载：跳转到 MacWk 下载。</li>
+</ul>
+</blockquote>
+<p></p>
+<p></p>
+<h2 id="常用应用">常用应用</h2>
+<h3 id="浏览器">浏览器</h3>
+<ul>
+<li>
+<p>Safari 浏览器：系统自带浏览器，无法卸载，偶尔使用一下，特别时候还是很好用的。</p>
+</li>
+<li>
+<p>Google Chrome</p>
+<ul>
+<li>
+<p>我的第二主力浏览器，世界最强浏览器，兼容性非常棒，但是也十分吃内存，电脑有点撑不住了。</p>
+</li>
+<li>
+<p><a href="https://dl.google.com/chrome/mac/stable/GGRO/googlechrome.dmg" target="_blank" rel="noopener noreffer">立即下载</a></p>
+</li>
+</ul>
+</li>
+<li>
+<p>Microsoft Edge：</p>
+<ul>
+<li>
+<p>目前主力浏览器，有着和Chrome一样的体验，相比Chrome，Edge 流畅了不少。</p>
+</li>
+<li>
+<p><a href="https://www.microsoft.com/zh-cn/edge" target="_blank" rel="noopener noreffer">官网下载</a></p>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="iterm">iTerm</h3>
+<ul>
+<li>
+<p>iTerm2是一款完全免费的，专为 Mac OS 用户打造的命令行应用，iTerm2本身支持很多自定义化的设置。</p>
+</li>
+<li>
+<p><a href="https://iterm2.com/" target="_blank" rel="noopener noreffer">官网下载</a></p>
+</li>
+</ul>
+<h3 id="dash">Dash</h3>
+<ul>
+<li>
+<p>Dash 是一款开发者必备API文档聚合应用，适用于 macOS 平台的软件编程文档管理工具，可以浏览API文档，以及管理代码片段工具。Dash自带了丰富的API文档，涉及各种主流的编程语言和框架。<a href="https://kapeli.com/dash" target="_blank" rel="noopener noreffer">官网介绍</a>。</p>
+</li>
+<li>
+<p><a href="https://kapeli.com/downloads/v5/Dash.zip" target="_blank" rel="noopener noreffer">立即下载</a></p>
+</li>
+</ul>
+<h3 id="snippetslab">SnippetsLab</h3>
+<ul>
+<li>
+<p>SnippetsLab - 构建私人代码片段库；可以登录GitHub，使用 Gits 记录代码。</p>
+</li>
+<li>
+<p><a href="https://apps.apple.com/cn/app/snippetslab/id1006087419?mt=12" target="_blank" rel="noopener noreffer">AppStore 下载</a></p>
+</li>
+</ul>
+<h3 id="reader">Reader</h3>
+<ul>
+<li>
+<p>最美的RSS订阅器新闻阅读器</p>
+</li>
+<li>
+<p><a href="https://www.macwk.com/soft/reeder" target="_blank" rel="noopener noreffer">MacWk 下载</a></p>
+</li>
+</ul>
+<h3 id="语雀">语雀</h3>
+<ul>
+<li>
+<p>优雅高效的在线文档编辑与协同工具。</p>
+</li>
+<li>
+<p><a href="https://www.yuque.com/install/desktop" target="_blank" rel="noopener noreffer">官网下载</a></p>
+</li>
+</ul>
+<h3 id="quartzcode">QuartzCode</h3>
+<ul>
+<li>
+<p>QuartzCode 是一个 ObjC / Swift 动画 <strong>代码生成工具</strong> ，可将动画转为原生代码，支持多种自定义动画效果及 SVG 文件导入。</p>
+</li>
+<li>
+<p><a href="https://quartzcodeapp.com/" target="_blank" rel="noopener noreffer">官网下载</a> (需要代理)</p>
+</li>
+</ul>
+<h3 id="sublime-text">Sublime Text</h3>
+<ul>
+<li><a href="https://www.macwk.com/soft/sublime-text" target="_blank" rel="noopener noreffer">MacWk 下载</a></li>
+</ul>
+<h3 id="hbuilderx">HBuilderX</h3>
+<ul>
+<li>
+<p>HBuilderX :</p>
+</li>
+<li>
+<p><a href="https://www.dcloud.io/hbuilderx.html" target="_blank" rel="noopener noreffer">官网下载</a></p>
+</li>
+</ul>
+<h3 id="visual-studio-code">Visual Studio Code</h3>
+<ul>
+<li>
+<p>Visual Studio Code :</p>
+</li>
+<li>
+<p><a href="https://code.visualstudio.com/docs/?dv=osx" target="_blank" rel="noopener noreffer">立即下载</a></p>
+</li>
+</ul>
+<h3 id="datagrip">DataGrip</h3>
+<ul>
+<li>
+<p>DataGrip :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="pycharm">PyCharm</h3>
+<ul>
+<li>
+<p>PyCharm :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="intellij-idea">IntelliJ IDEA</h3>
+<ul>
+<li>
+<p>IntelliJ IDEA :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="surge">Surge</h3>
+<ul>
+<li>
+<p>Surge :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="safeincloud">SafeInCloud</h3>
+<ul>
+<li>
+<p>SafeInCloud :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="cleanmymac-x">CleanMyMac X</h3>
+<ul>
+<li>
+<p>CleanMyMac X :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="macwk-应用更新器">MacWk 应用更新器</h3>
+<ul>
+<li>
+<p>MacWk 应用更新器 :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="mate-translate">Mate Translate</h3>
+<ul>
+<li>
+<p>Mate Translate :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-1">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-2">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-3">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-4">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-5">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-6">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-7">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-8">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-9">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-10">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-11">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-12">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-13">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-14">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-15">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-16">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-17">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-18">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-19">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-20">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-21">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-22">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-23">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-24">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-25">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-26">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-27">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-28">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-29">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-30">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-31">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-32">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-33">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-34">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-35">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-36">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-37">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-38">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-39">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-40">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-41">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-42">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-43">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-44">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>
+<h3 id="app-45">App</h3>
+<ul>
+<li>
+<p>app :</p>
+</li>
+<li>
+<p><a href="" rel="">官网下载</a></p>
+</li>
+</ul>]]></description></item></channel></rss>
