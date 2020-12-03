@@ -313,6 +313,7 @@
 <p></br></br></p>
 <hr>
 <h2 id="实用工具">实用工具</h2>
+<p></p>
 </br>
 <h3 id="utool">uTool</h3>
 <ul>
@@ -322,6 +323,51 @@
 <li>
 <p><strong><a href="https://u.tools/" target="_blank" rel="noopener noreffer">官网下载</a></strong></p>
 </li>
+</ul>
+</br>
+<h3 id="rocket-typist">Rocket Typist</h3>
+<ul>
+<li>
+<p><strong>说明</strong>： Rocket Typist 的用法和 TE 比基本没啥差别，可以创建 Snippet Group，通过设置缩写字符（abbreviation），来快速拓展出格式复杂的内容（Snippet），所有的 Snippet 数据可以存在本地，也可以通过 iCloud 在不同的 Mac 上同步（Pro），但是 Rocket Typist 并没有自己的数据同步服务或者引入第三方同步服务的设计。</p>
+</li>
+<li>
+<p><strong><a href="https://witt-software.com/downloads/rockettypist/Rocket%20Typist.dmg" target="_blank" rel="noopener noreffer">官网下载</a></strong></p>
+</li>
+</ul>
+</br>
+<h3 id="colorsnapper2">ColorSnapper2</h3>
+<ul>
+<li>
+<p><strong>说明</strong>：ColorSnapper2 是一款优秀的屏幕取色工具</p>
+</li>
+<li>
+<p><strong><a href="https://s3.amazonaws.com/cs2-binaries/ColorSnapper2.dmg" target="_blank" rel="noopener noreffer">官网下载</a></strong></p>
+</li>
+</ul>
+</br>
+<h3 id="1click-screen-recorder">1Click-Screen Recorder</h3>
+<ul>
+<li>
+<p><strong>说明</strong>：1Click-Screen Recorder 是一款简易视频录制工具，这款软件能够为大家提供桌面全屏或自定义范围录制。这款软件使用简单，只需一键就可以开启录制。</p>
+</li>
+<li>
+<p><strong><a href="https://www.imacbits.com/index.php?route=product/product/download&amp;download_id=18" target="_blank" rel="noopener noreffer">直接下载</a></strong></p>
+</li>
+</ul>
+</br>
+<h3 id="keymanager">KeyManager</h3>
+<ul>
+<li>
+<p><strong>说明</strong>：KeyManager 是集证书申请、证书管理、私钥管理、证书到期提醒、一键部署等为一体的证书管理工具。</p>
+</li>
+<li>
+<p><strong><a href="https://www.imacbits.com/index.php?route=product/product/download&amp;download_id=18" target="_blank" rel="noopener noreffer">直接下载</a></strong></p>
+</li>
+</ul>
+</br>
+<h3 id="firewall">FireWall</h3>
+<ul>
+<li><strong>说明</strong>：KeyManager 是集证书申请、证书管理、私钥管理、证书到期提醒、一键部署等为一体的证书管理工具。</li>
 </ul>
 </br>
 <h3 id="macos-小助手">macOS 小助手</h3>
@@ -344,16 +390,6 @@
 </li>
 </ul>
 </br>
-<h3 id="colorsnapper2">ColorSnapper2</h3>
-<ul>
-<li>
-<p><strong>说明</strong>：ColorSnapper2 是一款优秀的屏幕取色工具</p>
-</li>
-<li>
-<p><strong><a href="https://s3.amazonaws.com/cs2-binaries/ColorSnapper2.dmg" target="_blank" rel="noopener noreffer">官网下载</a></strong></p>
-</li>
-</ul>
-</br>
 <h3 id="bartender-4">Bartender 4</h3>
 <ul>
 <li>
@@ -361,16 +397,6 @@
 </li>
 <li>
 <p><strong><a href="https://www.macbartender.com/Bartender4/" target="_blank" rel="noopener noreffer">官网下载</a></strong></p>
-</li>
-</ul>
-</br>
-<h3 id="1click-screen-recorder">1Click-Screen Recorder</h3>
-<ul>
-<li>
-<p><strong>说明</strong>：1Click-Screen Recorder 是一款简易视频录制工具，这款软件能够为大家提供桌面全屏或自定义范围录制。这款软件使用简单，只需一键就可以开启录制。</p>
-</li>
-<li>
-<p><strong><a href="https://www.imacbits.com/index.php?route=product/product/download&amp;download_id=18" target="_blank" rel="noopener noreffer">直接下载</a></strong></p>
 </li>
 </ul>]]></description></item><item><title>ImgURL 项目简介</title><link>https://jonnyhub.gitee.io/2020/09/2020-09-09-imgurl-%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B/</link><pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/2020/09/2020-09-09-imgurl-%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B/</guid><description><![CDATA[<p>ImgURL 是一款简单、纯粹、高速稳定的图片上传和外链服务（图床程序），使用 Java + SpringBoot + MySQL + Vue + AntDesign of Vue 组件库开发。</p>
 <!-- more -->
