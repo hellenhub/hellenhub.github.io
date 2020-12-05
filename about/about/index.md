@@ -3,7 +3,7 @@
 
 <center><img class="lazyautosizes ls-is-cached lazyloaded" src="/images/avatar.png" data-src="/images/avatar.png" data-srcset="/images/avatar.png, /images/avatar.png 1.5x, /images/avatar.png 2x" data-sizes="auto" sizes="96px" srcset="/images/avatar.png, /images/avatar.png 1.5x, /images/avatar.png 2x"></center>
 
-------
+---
 
 # 关于我和博客
 
@@ -13,7 +13,7 @@
 
 如果你有任何问题，请给我发送邮件：[jonny0624@gmail.com](mailto:jonny0624@gmail.com)
 
-------
+---
 
 # 我在别处
 
@@ -25,7 +25,7 @@
 - [Douban](https://www.douban.com/people/jonny6015/)
 - [Weibo](https://weibo.com/u/jonnychang)
 
-------
+---
 
 # 了解更多
 
