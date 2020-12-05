@@ -5,7 +5,6 @@
 
 ## LmSite
 
-
 ```bash
 lmsite
 ├── lmsite-sso-auth -- 分布式单点登录 与 授权服务提供
@@ -31,5 +30,4 @@ lmsite
 └─└── lmsite-system3 -- 文件管理系统（简单的上传下载搜索等功能）
 
 ```
-
 

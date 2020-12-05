@@ -1,7 +1,7 @@
 # ResultCode 封装
 
 
-Java 中对结果的统一处理，根据阿里巴巴p3c手册进行封装的 Result 工具类。
+Java 中对结果的统一处理，根据阿里巴巴 p3c 手册进行封装的 Result 工具类。
 
 <!--more-->
 
@@ -530,7 +530,7 @@ public class BasePageResult<T> extends BaseResult<T> {
 }
 ```
 
-## ServiceResult Service结果
+## ServiceResult Service 结果
 
 ```java
 /**

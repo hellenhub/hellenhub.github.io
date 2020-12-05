@@ -3,7 +3,7 @@
 <blockquote>
 <p>本文默认: 在开启 root 登录后，一切使用 root 用户操作。</p>
 </blockquote>
-<h3 id="开启--root-登录">开启  root 登录</h3>
+<h3 id="开启-root-登录">开启 root 登录</h3>
 <p>默认可登录帐户名是: ubuntu(密码可以使用 key，或者安装时设定)， 为了使用 root 需要开启。</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -103,7 +103,7 @@ sh -c <span class="s2">&#34;</span><span class="k">$(</span>curl -fsSL https://r
 
 </code></pre></td></tr></table>
 </div>
-</div><h3 id="配置--ohmyzsh">配置  OhMyZsh</h3>
+</div><h3 id="配置-ohmyzsh">配置 OhMyZsh</h3>
 <ul>
 <li>zshrc 文件:</li>
 </ul>

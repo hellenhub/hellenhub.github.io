@@ -5,7 +5,7 @@
 <i class="far fa-clock fa-fw"></i>&nbsp;预计阅读 3 分钟&nbsp;<span id=/2019/02/2019-02-20-ubuntu-%E5%88%9D%E5%A7%8B%E5%8C%96%E8%AE%B0%E5%BD%95/ class=leancloud_visitors data-flag-title="Ubuntu 初始化记录">
 <i class="far fa-eye fa-fw"></i>&nbsp;<span class=leancloud-visitors-count></span>&nbsp;次阅读
 </span>&nbsp;</div></div><div class="details toc" id=toc-static kept><div class="details-summary toc-title"><span>目录</span>
-<span><i class="details-icon fas fa-angle-right"></i></span></div><div class="details-content toc-content" id=toc-content-static><nav id=TableOfContents><ul><li><a href=#系统更新与优化>系统更新与优化</a><ul><li><a href=#开启--root-登录>开启 root 登录</a></li><li><a href=#更新系统安装常用软件>更新系统，安装常用软件。</a></li><li><a href=#配置--ohmyzsh>配置 OhMyZsh</a></li><li><a href=#安装-npm--nvm>安装 npm & nvm</a></li><li><a href=#配置-中文环境>配置 中文环境</a></li><li><a href=#修改登录界面>修改登录界面:</a></li><li><a href=#webhookd-配置>webhookd 配置</a></li></ul></li></ul></nav></div></div><div class=content id=content><p>使用腾讯云 CVM 安装了系统之后，需要做的一些基本设置与配置。</p><h2 id=系统更新与优化>系统更新与优化</h2><blockquote><p>本文默认: 在开启 root 登录后，一切使用 root 用户操作。</p></blockquote><h3 id=开启--root-登录>开启 root 登录</h3><p>默认可登录帐户名是: ubuntu(密码可以使用 key，或者安装时设定)， 为了使用 root 需要开启。</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre class=chroma><code><span class=lnt> 1
+<span><i class="details-icon fas fa-angle-right"></i></span></div><div class="details-content toc-content" id=toc-content-static><nav id=TableOfContents><ul><li><a href=#系统更新与优化>系统更新与优化</a><ul><li><a href=#开启-root-登录>开启 root 登录</a></li><li><a href=#更新系统安装常用软件>更新系统，安装常用软件。</a></li><li><a href=#配置-ohmyzsh>配置 OhMyZsh</a></li><li><a href=#安装-npm--nvm>安装 npm & nvm</a></li><li><a href=#配置-中文环境>配置 中文环境</a></li><li><a href=#修改登录界面>修改登录界面:</a></li><li><a href=#webhookd-配置>webhookd 配置</a></li></ul></li></ul></nav></div></div><div class=content id=content><p>使用腾讯云 CVM 安装了系统之后，需要做的一些基本设置与配置。</p><h2 id=系统更新与优化>系统更新与优化</h2><blockquote><p>本文默认: 在开启 root 登录后，一切使用 root 用户操作。</p></blockquote><h3 id=开启-root-登录>开启 root 登录</h3><p>默认可登录帐户名是: ubuntu(密码可以使用 key，或者安装时设定)， 为了使用 root 需要开启。</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre class=chroma><code><span class=lnt> 1
 </span><span class=lnt> 2
 </span><span class=lnt> 3
 </span><span class=lnt> 4
@@ -87,7 +87,7 @@ sudo apt-get -y install golang-go
 <span class=c1># 安装 OhMyZsh</span>
 sh -c <span class=s2>&#34;</span><span class=k>$(</span>curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh<span class=k>)</span><span class=s2>&#34;</span>
 
-</code></pre></td></tr></table></div></div><h3 id=配置--ohmyzsh>配置 OhMyZsh</h3><ul><li>zshrc 文件:</li></ul><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre class=chroma><code><span class=lnt> 1
+</code></pre></td></tr></table></div></div><h3 id=配置-ohmyzsh>配置 OhMyZsh</h3><ul><li>zshrc 文件:</li></ul><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre class=chroma><code><span class=lnt> 1
 </span><span class=lnt> 2
 </span><span class=lnt> 3
 </span><span class=lnt> 4

@@ -438,7 +438,7 @@
 <h2 id="简介">简介</h2>
 <p>什么是图床？
 引用百度百科的解释：<a href="https://baike.baidu.com/item/%E5%9B%BE%E5%BA%8A" target="_blank" rel="noopener noreffer">图床</a>
-ImgURL是一款简单、纯粹、高速稳定的图片上传和外链服务（图床程序），使用 Java + SpringBoot + MySQL + Vue + AntDesign of Vue 组件库开发。</p>
+ImgURL 是一款简单、纯粹、高速稳定的图片上传和外链服务（图床程序），使用 Java + SpringBoot + MySQL + Vue + AntDesign of Vue 组件库开发。</p>
 <p>为什么要做这个图床？
 图床在这个信息时代，已经显得极为实用，作家、程序员、科技人员、教师，在创造过程中总是会遇到使用图床的场景，如 Markdown 撰写文档时，如果没有图床，将是很难受的，而 GitHub 的 Readme 仅支持 Markdown 格式。各种博客、知乎、论坛等等，写作中都是使用 Markdown 语言。目前比较有名稳定的图床也有，但是要么部署麻烦，要么收费很贵，要么不稳定，所以 ImgHub 应运而生。开发完成后，会创建一键部署命令，一个命令即可完成整套程序的部署。
 ImgHub 虽然很小，但很强大，Pro 版本是可以对接微信，争取做到开源第一图床。</p>
@@ -508,7 +508,7 @@ ImgHub 虽然很小，但很强大，Pro 版本是可以对接微信，争取做
 <h2 id="常用插件介绍">常用插件介绍</h2>
 <ul>
 <li>
-<p>alias-finder : 查找某个完整命令的alias。</p>
+<p>alias-finder : 查找某个完整命令的 alias。</p>
 <ul>
 <li>alias-finder &ldquo;git pull&rdquo;</li>
 </ul>
@@ -559,7 +559,7 @@ ImgHub 虽然很小，但很强大，Pro 版本是可以对接微信，争取做
 <p>osx : 支持在终端上使用很多 Finder 命令，<a href="https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/osx#commands" target="_blank" rel="noopener noreffer">查看详情</a>。</p>
 </li>
 <li>
-<p>z.lua: 命令行目录跳转工具，性能优于z和autojump。<a href="https://github.com/skywind3000/z.lua/blob/master/README.cn.md#install" target="_blank" rel="noopener noreffer">安装方法</a></p>
+<p>z.lua: 命令行目录跳转工具，性能优于 z 和 autojump。<a href="https://github.com/skywind3000/z.lua/blob/master/README.cn.md#install" target="_blank" rel="noopener noreffer">安装方法</a></p>
 </li>
 <li>
 <p>battery : 电池插件-此插件添加了一些函数，可用于在自定义主题中显示电池信息。
@@ -585,18 +585,18 @@ ImgHub 虽然很小，但很强大，Pro 版本是可以对接微信，争取做
 <p>colored-man-pages : 高亮显示 man 命令内容。</p>
 </li>
 <li>
-<p>colorize : 有了这个插件，你可以语法突出显示文件内容超过300种支持的语言和其他文本格式。</p>
+<p>colorize : 有了这个插件，你可以语法突出显示文件内容超过 300 种支持的语言和其他文本格式。</p>
 </li>
 <li>
 <p>command-not-found : 此插件在找不到命令时提供要安装的建议包。</p>
 </li>
 <li>
-<p>common-aliases : 常用的alias。</p>
+<p>common-aliases : 常用的 alias。</p>
 </li>
 <li>
-<p>dash : 为Dash添加命令行功能，一个用于macOS的API文档浏览器。此插件需要安装 Dash 才能工作。</p>
+<p>dash : 为 Dash 添加命令行功能，一个用于 macOS 的 API 文档浏览器。此插件需要安装 Dash 才能工作。</p>
 <ul>
-<li><code>dash golang  /  dash python:tuple</code></li>
+<li><code>dash golang / dash python:tuple</code></li>
 </ul>
 </li>
 <li>
@@ -608,7 +608,7 @@ ImgHub 虽然很小，但很强大，Pro 版本是可以对接微信，争取做
 <li>
 <p>emoji : 支持在 Zsh 中方便地使用 Unicode 表情符号。</p>
 <ul>
-<li><code>echo $emoji[mouse_face]  /  random_emoji</code></li>
+<li><code>echo $emoji[mouse_face] / random_emoji</code></li>
 </ul>
 </li>
 <li>
@@ -647,13 +647,13 @@ ImgHub 虽然很小，但很强大，Pro 版本是可以对接微信，争取做
 <li>
 <p>github : github 插件。</p>
 <ul>
-<li>配置环境变量 : <code>$GITHUB_USER  /  $GITHUB_PASSWORD</code></li>
+<li>配置环境变量 : <code>$GITHUB_USER / $GITHUB_PASSWORD</code></li>
 <li>Git 配置选项 : <code>github.user</code> - 用于存储库操作的 GitHub 用户名</li>
 <li>用法 : <code>man hub</code></li>
 </ul>
 </li>
 <li>
-<p>gitignore : 此插件使您能够使用命令gitignore.io命令行的一个应用程序。</p>
+<p>gitignore : 此插件使您能够使用命令 gitignore.io 命令行的一个应用程序。</p>
 <ul>
 <li>查看 : <code>gi list</code></li>
 <li>使用 : <code>gi java</code></li>
@@ -673,15 +673,15 @@ ImgHub 虽然很小，但很强大，Pro 版本是可以对接微信，争取做
 </li>
 <li>
 <p>history : 提供了几个方便的别名，用于使用 命令来检查命令行历史记录。
-用法1： <code>h : history</code> 打印命令历史记录 ；
-用法2： <code>hs : history | grep</code> 使用 grep 搜索命令历史记录 ；
-用法3： <code>hsi : history | grep -i</code> 使用 grep 对命令历史记录进行不区分大小写搜索 。</p>
+用法 1： <code>h : history</code> 打印命令历史记录 ；
+用法 2： <code>hs : history | grep</code> 使用 grep 搜索命令历史记录 ；
+用法 3： <code>hsi : history | grep -i</code> 使用 grep 对命令历史记录进行不区分大小写搜索 。</p>
 </li>
 <li>
 <p>iterm2 : Iterm2 插件。</p>
 </li>
 <li>
-<p>jenv : 类似于 rbenv 和pyenv的Java 版本管理器。</p>
+<p>jenv : 类似于 rbenv 和 pyenv 的 Java 版本管理器。</p>
 </li>
 <li>
 <p>jsontools : 用于处理 json 数据的方便的命令行工具。</p>
@@ -722,16 +722,16 @@ urldecode_json： 返回给定 URL 编码字符串的解码 json。
 <p>pipenv : 此插件提供了一些功能，以简化使用 Pipenv。</p>
 </li>
 <li>
-<p>pyenv : 这个插件寻找pyenv，一个简单的Python版本管理系统。</p>
+<p>pyenv : 这个插件寻找 pyenv，一个简单的 Python 版本管理系统。</p>
 </li>
 <li>
 <p>python : 该插件为有用的 python 命令添加了多个别名。</p>
 </li>
 <li>
-<p>rails : 此插件添加了Ruby On Rails 框架和 Rake命令的完成，以及日志和环境变量的一些别名。</p>
+<p>rails : 此插件添加了 Ruby On Rails 框架和 Rake 命令的完成，以及日志和环境变量的一些别名。</p>
 </li>
 <li>
-<p>rbenv : 这个插件的主要工作是提供可以添加到您的主题，包括Ruby版本和宝石集信息到您的提示。</p>
+<p>rbenv : 这个插件的主要工作是提供可以添加到您的主题，包括 Ruby 版本和宝石集信息到您的提示。</p>
 </li>
 <li>
 <p>redis-cli : 此插件添加 redis-cli 完成，基于 Homebrew 完成。</p>
@@ -752,21 +752,21 @@ urldecode_json： 返回给定 URL 编码字符串的解码 json。
 <p>textastic : Textastic 插件 Mac OS X。</p>
 </li>
 <li>
-<p>themes : 这个插件允许您更改ZSH主题。</p>
+<p>themes : 这个插件允许您更改 ZSH 主题。</p>
 <ul>
-<li>使用1： <code>theme &lt;theme_name&gt;</code> - 将 ZSH 主题更改为指定主题。</li>
-<li>使用2： <code>theme</code> - 将 ZSH 主题更改为一些随机主题。</li>
-<li>使用3： <code>lstheme</code> - 列出已安装的 ZSH 主题。</li>
+<li>使用 1： <code>theme &lt;theme_name&gt;</code> - 将 ZSH 主题更改为指定主题。</li>
+<li>使用 2： <code>theme</code> - 将 ZSH 主题更改为一些随机主题。</li>
+<li>使用 3： <code>lstheme</code> - 列出已安装的 ZSH 主题。</li>
 </ul>
 </li>
 <li>
 <p>timer : 显示命令的执行时间。</p>
 </li>
 <li>
-<p>ubuntu : Ubuntu 自动完成和alias。</p>
+<p>ubuntu : Ubuntu 自动完成和 alias。</p>
 </li>
 <li>
-<p>ufw : 这个插件增加了用于管理每个人最喜欢的简单防火墙（UFW）的完成，这是一个管理iptable的简单界面。</p>
+<p>ufw : 这个插件增加了用于管理每个人最喜欢的简单防火墙（UFW）的完成，这是一个管理 iptable 的简单界面。</p>
 </li>
 <li>
 <p>urltools : 此插件提供两个别名到 URL 编码和 URL 解码字符串。</p>
@@ -789,7 +789,7 @@ urldecode <span class="s1">&#39;https%3A%2F%2Fgithub.com%2Fohmyzsh%2Fohmyzsh%2Fs
 <p>vscode : 此插件提供了有用的别名，以简化命令行与 VS 代码或 VSCodium 编辑器之间的交互。</p>
 </li>
 <li>
-<p>web-search : 这个插件增加了搜索谷歌，维基，必应，YouTube和其他流行的服务的别名。</p>
+<p>web-search : 这个插件增加了搜索谷歌，维基，必应，YouTube 和其他流行的服务的别名。</p>
 <ul>
 <li>使用 : <code>google oh-my-zsh</code> <code>bing content</code></li>
 </ul>
@@ -1232,7 +1232,7 @@ git clone https://github.com/skywind3000/z.lua.git ~/.oh-my-zsh/custom/plugins/z
 
 </code></pre></td></tr></table>
 </div>
-</div>]]></description></item><item><title>ResultCode 封装</title><link>https://jonnyhub.gitee.io/2020/08/2020-08-10-resultcode-%E5%B0%81%E8%A3%85/</link><pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/2020/08/2020-08-10-resultcode-%E5%B0%81%E8%A3%85/</guid><description><![CDATA[<p>Java 中对结果的统一处理，根据阿里巴巴p3c手册进行封装的 Result 工具类。</p>
+</div>]]></description></item><item><title>ResultCode 封装</title><link>https://jonnyhub.gitee.io/2020/08/2020-08-10-resultcode-%E5%B0%81%E8%A3%85/</link><pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/2020/08/2020-08-10-resultcode-%E5%B0%81%E8%A3%85/</guid><description><![CDATA[<p>Java 中对结果的统一处理，根据阿里巴巴 p3c 手册进行封装的 Result 工具类。</p>
 <h1 id="java-中对于结果的统一处理">Java 中对于结果的统一处理</h1>
 <h2 id="resultcodeenum-统一处理结果码枚举">ResultCodeEnum 统一处理结果码枚举</h2>
 <div class="highlight"><div class="chroma">
@@ -2271,7 +2271,7 @@ git clone https://github.com/skywind3000/z.lua.git ~/.oh-my-zsh/custom/plugins/z
 <span class="o">}</span>
 </code></pre></td></tr></table>
 </div>
-</div><h2 id="serviceresult-service结果">ServiceResult Service结果</h2>
+</div><h2 id="serviceresult-service-结果">ServiceResult Service 结果</h2>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">  1
@@ -2711,7 +2711,7 @@ git clone https://github.com/skywind3000/z.lua.git ~/.oh-my-zsh/custom/plugins/z
 <hr>
 <h1 id="关于-unix-中的配置文件">关于 Unix 中的配置文件</h1>
 <h2 id="linux-shell-种类简单介绍">Linux Shell 种类简单介绍</h2>
-<p>Unix shell，一种壳层与命令行界面，是Unix操作系统下传统的用户和计算机的交互界面。</p>
+<p>Unix shell，一种壳层与命令行界面，是 Unix 操作系统下传统的用户和计算机的交互界面。</p>
 <ul>
 <li>查看本机 shell 有哪些，可以使用命令： <code>cat /etc/shells</code></li>
 <li>查看当前用户正在使用的 shell 可以使用命令： <code>echo $SHELL # 切换 shell 为 zsh</code></li>
@@ -2733,7 +2733,7 @@ git clone https://github.com/skywind3000/z.lua.git ~/.oh-my-zsh/custom/plugins/z
 <p>修改系统环境变量。系统环境变量一般保存在以下几个位置：</p>
 <ul>
 <li><code>/etc/profile</code> : 全局（公有）配置，不管是哪个用户，登录时都会读取该文件。</li>
-<li><code>/etc/bash.bashrc</code> : 它也是全局（公有）的 bash执行时，不管是何种方式，都会读取此文件。</li>
+<li><code>/etc/bash.bashrc</code> : 它也是全局（公有）的 bash 执行时，不管是何种方式，都会读取此文件。</li>
 <li><code>/etc/environment</code> : 不要轻易修改此文件。</li>
 </ul>
 </li>
@@ -2758,9 +2758,9 @@ git clone https://github.com/skywind3000/z.lua.git ~/.oh-my-zsh/custom/plugins/z
 </div>
 </div><p><strong>说明：</strong></p>
 <ul>
-<li>若bash是以login方式执行时，读取~/.bash_profile，若它不存在，则读取~/.bash_login，若前两者不存在，读取~/.profile。</li>
-<li>若bash是以login方式执行时，读取~/.bash_profile，若它不存,则读取~/.bash_login，若前两者不存在，读取 ~/.profile。只有bash是以login形式执行时，才会读取.bash_profile，Unbutu默认没有此文件，可新建。 通常该配置文件还会配置成去读取~/.bashrc。</li>
-<li>当bash是以non-login形式执行时，读取此文件。若是以login形式执行，则不会读取此文件。</li>
+<li>若 bash 是以 login 方式执行时，读取~/.bash_profile，若它不存在，则读取~/.bash_login，若前两者不存在，读取~/.profile。</li>
+<li>若 bash 是以 login 方式执行时，读取~/.bash_profile，若它不存,则读取~/.bash_login，若前两者不存在，读取 ~/.profile。只有 bash 是以 login 形式执行时，才会读取.bash_profile，Unbutu 默认没有此文件，可新建。 通常该配置文件还会配置成去读取~/.bashrc。</li>
+<li>当 bash 是以 non-login 形式执行时，读取此文件。若是以 login 形式执行，则不会读取此文件。</li>
 <li>~/.bashrc 是交互式 non-login 方式进入 bash 运行的通常二者设置大致相同，所以通常前者会调用后者。</li>
 </ul>
 </li>
@@ -2769,9 +2769,9 @@ git clone https://github.com/skywind3000/z.lua.git ~/.oh-my-zsh/custom/plugins/z
 <h2 id="bashrc-和-bash_profile-的区别"><code>.bashrc</code> 和 <code>.bash_profile</code> 的区别</h2>
 <p><code>.bash_profile</code>会用在登陆 shell， <code>.bashrc</code> 使用在交互式非登陆 shell 。
 简单说来，它们的区别主要是: <code>.bash_profile</code>是在你每次登录的时候执行的；<code>.bashrc</code>是在你新开了一个命令行窗口时执行的。
-当通过控制台进行登录（输入用户名和密码）：在初始化命令行提示符的时候会执行<code>.bash_profile</code> 来配置你的 shell 环境。但是如果已经登录到机器，在Gnome或者是KDE也开了一个新的终端窗口（xterm），这时，<code>.bashrc</code>会在窗口命令行提示符出现前被执行。当你在终端敲入<code>/bin/bash</code>时<code>.bashrc</code>也会在这个新的 bash 实例启动的时候执行。</p>
+当通过控制台进行登录（输入用户名和密码）：在初始化命令行提示符的时候会执行<code>.bash_profile</code> 来配置你的 shell 环境。但是如果已经登录到机器，在 Gnome 或者是 KDE 也开了一个新的终端窗口（xterm），这时，<code>.bashrc</code>会在窗口命令行提示符出现前被执行。当你在终端敲入<code>/bin/bash</code>时<code>.bashrc</code>也会在这个新的 bash 实例启动的时候执行。</p>
 <h2 id="zshrc-文件是什么"><code>.zshrc</code> 文件是什么</h2>
-<p>对于使用 zsh shell 的用户来说，<code>.zshrc</code> 文件就相当于以上所讲的  <code>~/.bashrc</code> 和 <code>.bash_profile</code>。</p>]]></description></item><item><title>LmSite 项目架构</title><link>https://jonnyhub.gitee.io/2020/06/2020-06-08-lmsite-%E9%A1%B9%E7%9B%AE%E6%9E%B6%E6%9E%84/</link><pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/2020/06/2020-06-08-lmsite-%E9%A1%B9%E7%9B%AE%E6%9E%B6%E6%9E%84/</guid><description><![CDATA[<h2 id="lmsite">LmSite</h2>
+<p>对于使用 zsh shell 的用户来说，<code>.zshrc</code> 文件就相当于以上所讲的 <code>~/.bashrc</code> 和 <code>.bash_profile</code>。</p>]]></description></item><item><title>LmSite 项目架构</title><link>https://jonnyhub.gitee.io/2020/06/2020-06-08-lmsite-%E9%A1%B9%E7%9B%AE%E6%9E%B6%E6%9E%84/</link><pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/2020/06/2020-06-08-lmsite-%E9%A1%B9%E7%9B%AE%E6%9E%B6%E6%9E%84/</guid><description><![CDATA[<h2 id="lmsite">LmSite</h2>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt"> 1
@@ -2827,7 +2827,7 @@ git clone https://github.com/skywind3000/z.lua.git ~/.oh-my-zsh/custom/plugins/z
 </div>]]></description></item><item><title>Webhookd 安装与配置</title><link>https://jonnyhub.gitee.io/2019/06/2019-06-02-webhookd-%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/</link><pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/2019/06/2019-06-02-webhookd-%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/</guid><description><![CDATA[<p>Webhookd 是一个非常简单的 webhook 服务器启动 shell 脚本。目前使用十分方便，使用 go 开发，速度也很快。本文介绍了 Webhookd 安装与配置，采用了脚本自动化的方式来搭建整个自动化流程。</p>
 <h2 id="webhookd-介绍">webhookd 介绍</h2>
 <blockquote>
-<p>webhookd 是一个非常简单的webhook服务器启动shell脚本。目前使用十分方便，使用 go 开发，速度也很快。
+<p>webhookd 是一个非常简单的 webhook 服务器启动 shell 脚本。目前使用十分方便，使用 go 开发，速度也很快。
 由于 GitHub 请求时间有一个 10 秒的限制，因此在编写脚本的时候，采用了脚本内调用外部脚本的方式，来控制请求时长。
 项目地址: <a href="https://github.com/ncarlier/webhookd" target="_blank" rel="noopener noreffer">https://github.com/ncarlier/webhookd</a>
 配置文件参考: <a href="https://raw.githubusercontent.com/ncarlier/webhookd/master/etc/default/webhookd.env" target="_blank" rel="noopener noreffer">webhookd.env</a>
@@ -2950,7 +2950,7 @@ systemctl start webhookd.service
 <li>待补充</li>
 </ul>
 <h2 id="脚本">脚本</h2>
-<h3 id="生成新-hook-脚步的工具--addhooksh-脚本">生成新 hook 脚步的工具:  <em>addhook.sh</em> 脚本</h3>
+<h3 id="生成新-hook-脚步的工具-_addhooksh_-脚本">生成新 hook 脚步的工具: <em>addhook.sh</em> 脚本</h3>
 <ul>
 <li>addhook.sh</li>
 </ul>
@@ -3160,7 +3160,7 @@ chmod +x <span class="si">${</span><span class="nv">ROOT_PATH</span><span class=
 
 </code></pre></td></tr></table>
 </div>
-</div>]]></description></item><item><title>Oneinstack 环境安装</title><link>https://jonnyhub.gitee.io/2019/05/2019-05-11-oneinstack-%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/</link><pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/2019/05/2019-05-11-oneinstack-%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/</guid><description><![CDATA[<p><strong>OneinStack</strong> 是另一个非常优秀的 LNMP 一键安装脚本，这与 LNMP 功能类似，只不过 LNMP.org 的 LNMP 一键脚本一年才更新一次，PHP 7和Let’s Encrypt证书只有等到 LNMP 1.4 出来后才能使用，而 OneinStack 早就可以使用了。</p>
+</div>]]></description></item><item><title>Oneinstack 环境安装</title><link>https://jonnyhub.gitee.io/2019/05/2019-05-11-oneinstack-%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/</link><pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/2019/05/2019-05-11-oneinstack-%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/</guid><description><![CDATA[<p><strong>OneinStack</strong> 是另一个非常优秀的 LNMP 一键安装脚本，这与 LNMP 功能类似，只不过 LNMP.org 的 LNMP 一键脚本一年才更新一次，PHP 7 和 Let’s Encrypt 证书只有等到 LNMP 1.4 出来后才能使用，而 OneinStack 早就可以使用了。</p>
 <h2 id="oneinstack-下载安装与升级">OneinStack 下载安装与升级</h2>
 <ul>
 <li>准备:</li>
@@ -3245,9 +3245,9 @@ tar xzf oneinstack-full.tar.gz
 <pre class="chroma"><code class="language-shell" data-lang="shell"><span class="c1"># 如果网路出现中断，可以执行命令`screen -R ones`重新连接安装窗口</span>
 screen -S ones
 <span class="c1"># 这里选择的是安装 openresty</span>
-<span class="nb">cd</span> ~/oneinstack <span class="o">&amp;&amp;</span> ./install.sh --nginx_option <span class="m">3</span> 
+<span class="nb">cd</span> ~/oneinstack <span class="o">&amp;&amp;</span> ./install.sh --nginx_option <span class="m">3</span>
 <span class="c1"># 如果 Nginx 安装成功，执行下面安装所有环境</span>
-<span class="c1"># 需要注意修改 --dbrootpwd 参数 默认是 oneinstack </span>
+<span class="c1"># 需要注意修改 --dbrootpwd 参数 默认是 oneinstack</span>
 <span class="nb">cd</span> ~ <span class="o">&amp;&amp;</span> ./oneinstack/install.sh --apache_option <span class="m">1</span> --apache_mpm_option <span class="m">1</span> --apache_mode_option <span class="m">1</span> --php_option <span class="m">8</span> --phpcache_option <span class="m">1</span> --php_extensions imagick,fileinfo,redis,memcached,mongodb  --pureftpd  --redis  --memcached --tomcat_option <span class="m">1</span> --jdk_option <span class="m">1</span> --phpmyadmin  --db_option <span class="m">1</span> --dbinstallmethod <span class="m">2</span> --dbrootpwd oneinstack --reboot
 
 </code></pre></td></tr></table>

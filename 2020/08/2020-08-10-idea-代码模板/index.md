@@ -3,11 +3,11 @@
 
 # IDEA 代码模板
 
-------
+---
 
 ## Getter And Setter
 
-------
+---
 
 ### Getter
 
@@ -56,7 +56,7 @@ $field.name = $paramName;
 }
 ```
 
-------
+---
 
 ## Code Style
 
