@@ -1,4 +1,132 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>JonnyHub Blog - A Java Programmer.</title><link>https://jonnyhub.gitee.io/</link><description>这是 Jonny.Chang 的个人博客。</description><generator>Hugo -- gohugo.io</generator><managingEditor>jonny0624@gmail.com (Jonny.Chang)</managingEditor><webMaster>jonny0624@gmail.com (Jonny.Chang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jonnyhub.gitee.io/index.xml" rel="self" type="application/rss+xml"/><item><title>macOS X 桌面应用</title><link>https://jonnyhub.gitee.io/2020/12/macos-x-%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8/</link><pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/2020/12/macos-x-%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8/</guid><description><![CDATA[</br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>JonnyHub Blog - A Java Programmer.</title><link>https://jonnyhub.gitee.io/</link><description>这是 Jonny.Chang 的个人博客。</description><generator>Hugo -- gohugo.io</generator><managingEditor>jonny0624@gmail.com (Jonny.Chang)</managingEditor><webMaster>jonny0624@gmail.com (Jonny.Chang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 09 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jonnyhub.gitee.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Docker 常用命令</title><link>https://jonnyhub.gitee.io/2020/12/docker-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link><pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/2020/12/docker-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid><description><![CDATA[<p>Docker 常用命令集合</p>
+<h2 id="操作容器">操作容器</h2>
+<h3 id="手动更新容器">手动更新容器</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-shell" data-lang="shell">docker run --rm <span class="se">\
+</span><span class="se"></span>    -v /var/run/docker.sock:/var/run/docker.sock <span class="se">\
+</span><span class="se"></span>    containrrr/watchtower -cR <span class="se">\
+</span><span class="se"></span>    容器名1 容器名2 容器名3
+</code></pre></td></tr></table>
+</div>
+</div><h3 id="用一行列出所有正在运行的-container">用一行列出所有正在运行的 container</h3>
+<blockquote>
+<p>容器多的时候非常清晰</p>
+</blockquote>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-shell" data-lang="shell">docker ps <span class="p">|</span> less -S
+</code></pre></td></tr></table>
+</div>
+</div><h3 id="查看容器日志">查看容器日志</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-shell" data-lang="shell">docker logs &lt;id/container_name&gt;
+</code></pre></td></tr></table>
+</div>
+</div><h3 id="实时查看日志输出">实时查看日志输出</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-shell" data-lang="shell">docker logs -f &lt;id/container_name&gt;  <span class="c1"># (类似 tail -f) (带上时间戳-t）</span>
+</code></pre></td></tr></table>
+</div>
+</div><h3 id="停止所有的容器">停止所有的容器</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-shell" data-lang="shell">docker stop <span class="k">$(</span>docker ps -aq<span class="k">)</span>
+</code></pre></td></tr></table>
+</div>
+</div><h3 id="删除所有的容器">删除所有的容器</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-shell" data-lang="shell">docker rm <span class="k">$(</span>docker ps -aq<span class="k">)</span>
+</code></pre></td></tr></table>
+</div>
+</div><h3 id="删除所有-关闭-的容器">删除所有 <strong>关闭</strong> 的容器</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-shell" data-lang="shell">docker ps -a <span class="p">|</span> grep Exit <span class="p">|</span> cut -d <span class="s1">&#39; &#39;</span> -f <span class="m">1</span> <span class="p">|</span> xargs docker rm
+</code></pre></td></tr></table>
+</div>
+</div><h3 id="删除所有-dangling-镜像即无-tag-的镜像">删除所有 dangling 镜像(即无 tag 的镜像)：</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-shell" data-lang="shell">docker rmi <span class="k">$(</span>docker images <span class="p">|</span> grep <span class="s2">&#34;^&lt;none&gt;&#34;</span> <span class="p">|</span> awk <span class="s2">&#34;{print </span><span class="nv">$3</span><span class="s2">}&#34;</span><span class="k">)</span>
+</code></pre></td></tr></table>
+</div>
+</div><h3 id="删除所有-dangling-数据卷即无用的-volume">删除所有 dangling 数据卷(即无用的 volume)：</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-shell" data-lang="shell">docker volume rm <span class="k">$(</span>docker volume ls -qf <span class="nv">dangling</span><span class="o">=</span><span class="nb">true</span><span class="k">)</span>
+</code></pre></td></tr></table>
+</div>
+</div><h1 id="重启所有容器">重启所有容器</h1>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-shell" data-lang="shell">docker restart <span class="k">$(</span>docker ps -a <span class="p">|</span> awk <span class="s1">&#39;{ print $1}&#39;</span> <span class="p">|</span> tail -n +2<span class="k">)</span>
+</code></pre></td></tr></table>
+</div>
+</div><h2 id="操作-image">操作 Image</h2>
+<h3 id="删除所有的镜像">删除所有的镜像</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-shell" data-lang="shell">docker rmi <span class="k">$(</span>docker images -q<span class="k">)</span>
+</code></pre></td></tr></table>
+</div>
+</div><h3 id="复制文件">复制文件</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-shell" data-lang="shell"><span class="c1"># container --&gt; 宿主机</span>
+docker cp &lt;container name&gt;:/opt/&lt;file name&gt; /opt/local/
+
+<span class="c1"># 宿主机 --&gt; container</span>
+docker cp /opt/local/&lt;file name&gt; &lt;container name&gt;:/opt/
+</code></pre></td></tr></table>
+</div>
+</div>]]></description></item><item><title>macOS X 桌面应用</title><link>https://jonnyhub.gitee.io/2020/12/macos-x-%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8/</link><pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate><author>作者</author><guid>https://jonnyhub.gitee.io/2020/12/macos-x-%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8/</guid><description><![CDATA[</br>
 <p>macOS X 桌面级应用，我是一个资深 Mac 用户，我需要它们帮助我快乐、高效的工作，同时也分享给你。</p>
 </br>
 <blockquote>
